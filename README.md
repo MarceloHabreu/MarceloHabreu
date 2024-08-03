@@ -50,4 +50,4 @@
 
 
 >"There are two ways to write error-free programs; only the third works."
-— Alan J. Perlis       porque a animação da cobrinha não está funcionando?, faça funcionar e coloque do lado das frases da área "About me"
+— Alan J. Perlis       
