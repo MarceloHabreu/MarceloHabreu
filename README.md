@@ -1,9 +1,18 @@
 <h2 align="center"> About Me </h2>
 
-- 🤌 I like to solve problems and understand processes.
-- 🎓 Studying Systems Analysis and Development at UniFacema.
-- 💼 In search of the first stage.
-- 🌱 Learning more about Typescript and Java.
+<table align="center" width="100%">
+  <tr>
+    <td align="left" width="50%">
+      - 🤌 I like to solve problems and understand processes.<br>
+      - 🎓 Studying Systems Analysis and Development at UniFacema.<br>
+      - 💼 In search of the first stage.<br>
+      - 🌱 Learning more about Typescript and Java.
+    </td>
+    <td align="" width="20%">
+      <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="Computer illustration" width="200"/>
+    </td>
+  </tr>
+</table>
 <br>
 <div align="center">
 <h2 align="center"> ⚒️ My Skills</h2>
