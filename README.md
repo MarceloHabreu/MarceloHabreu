@@ -3,25 +3,36 @@
 <table align="center" width="100%">
   <tr>
     <td align="left" width="50%">
+      - 🙋 Yo, what's up? My name is Marcelo Henrique and I'm 18 years old.<br>
       - 🤌 I like to solve problems and understand processes.<br>
       - 🎓 Studying Systems Analysis and Development at UniFacema.<br>
       - 💼 In search of the first stage.<br>
-      - 🌱 Learning more about Typescript and Java.
+      - 🌱 Right now, i'm learning more about Java with Spring Boot and Php with Laravel.
     </td>
-    <td align="" width="20%">
-      <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="Computer illustration" width="200"/>
+    <td align="center" width="20%">
+      <img src="https://i.pinimg.com/originals/69/b2/88/69b28856241ddc9ee1b856faea64db05.gif" alt="About Me GIF" width="200"/>
     </td>
   </tr>
 </table>
 <br>
+
 <div align="center">
-<h2 align="center"> ⚒️ My Skills</h2>
+<h2 align="center"> ⚒️ My Skills/ Tools I use</h2>
 
-
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
-
+<div align="center">
+  <img src="https://cdn-icons-png.flaticon.com/512/226/226777.png" alt="Java" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" alt="Spring" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" alt="Mysql" width="50" />
+  <img src="https://cdn-icons-png.flaticon.com/512/6132/6132221.png" alt="C#" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="JavaScript" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" alt="HTML5" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" alt="CSS3" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" alt="Vs code" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-original.svg" alt="Visual Studio" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg" alt="IntelliJ" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" alt="Git" width="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" alt="Github" width="50" />
+</div>
 
 
 
