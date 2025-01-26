@@ -7,7 +7,7 @@
       - 🤌 I like to solve problems and understand processes.<br>
       - 🎓 Studying Systems Analysis and Development at UniFacema.<br>
       - 💼 In search of the first stage.<br>
-      - 🌱 Right now, i'm learning more about Java with Spring Boot and Php with Laravel.
+      - 🌱 Right now, i'm learning more about Java with Spring Boot and Next Js.
     </td>
     <td align="center" width="20%">
       <img src="https://i.pinimg.com/originals/69/b2/88/69b28856241ddc9ee1b856faea64db05.gif" alt="About Me GIF" width="200"/>
